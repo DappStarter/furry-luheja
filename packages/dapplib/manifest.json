@@ -1,0 +1,10 @@
+{
+    "name": "Filesale",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/": true,
+        "/framework/vanilla": true,
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "multiple"
+    }
+}
